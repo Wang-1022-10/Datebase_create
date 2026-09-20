@@ -1,0 +1,2 @@
+# Datebase_create
+采用python语言快速建立处理MySQL数据库
