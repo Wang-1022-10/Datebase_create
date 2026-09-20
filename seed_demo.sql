@@ -1,0 +1,3 @@
+-- 已弃用：请使用 seed_simulation.sql（30 帧完整模拟）
+-- 生成方式: python generate_seed_sql.py
+-- 建库方式: init-demo-db.bat 或 python init_demo_db.py
